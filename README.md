@@ -1,2 +1,2 @@
 # logica-da-programa-o
-atividades de logica da programação 
+algoritmos do VisulG e Scratch
